@@ -1,0 +1,28 @@
+@media(width > 1440px){
+    body{
+        background-color: #F7F7FE;
+        background-image: url(src/Group\ 10\ Copy.svg);
+        background-position: bottom 0 left 0;
+        background-repeat: no-repeat;
+    }
+    .main{
+        width: 100vw;
+        background-image: url(src/Group\ 10.svg);
+    }
+    .flex{
+        display: flex;
+    }
+    .pirveli{
+        width: 350px;
+height: 453px;
+flex-shrink: 0;
+margin-left: 0;
+    }
+    .meore{
+        margin-top: 56px;
+        width: 350px;
+height: 500px;
+flex-shrink: 0;
+    }
+
+}
